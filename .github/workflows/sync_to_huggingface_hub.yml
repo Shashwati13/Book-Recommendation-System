@@ -18,3 +18,11 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: git push --force https://Shashwati:$HF_TOKEN@huggingface.co/spaces/Shashwati/Book-Recommendation main
+        
+  check-file-size:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check file size
+        uses: ActionsDesk/lfs-warning@v2.0
+        with:
+          filesizelimit: 10485760 
