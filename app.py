@@ -34,7 +34,7 @@ def add_bg_from_local(image_file):
     unsafe_allow_html=True
     )
 background_image = "background2.jpg"
-add_bg_from_local(background_image) 
+# add_bg_from_local(background_image) 
 
 
 st.markdown("<h1 style='font-size: 50px; color: black;font-style: italic; font-family: \"Palatino\"'>Enter a review!!</h1>", unsafe_allow_html=True)
