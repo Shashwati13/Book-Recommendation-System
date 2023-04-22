@@ -1,13 +1,10 @@
 streamlit
-os
 base64
-SentimentIntensityAnalyzer
 pandas
 pickle
-matplotlib.pyplot as plt
+nltk
 Image
 requests
-word_tokenize
-WordNetLemmatizer
+PIL
 BytesIO
 base64
