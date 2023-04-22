@@ -1,0 +1,13 @@
+streamlit
+os
+base64
+SentimentIntensityAnalyzer
+pandas
+pickle
+matplotlib.pyplot as plt
+Image
+requests
+word_tokenize
+WordNetLemmatizer
+BytesIO
+base64
