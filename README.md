@@ -1,13 +1,3 @@
----
-title: Book Recommendation
-emoji: 📈
-colorFrom: purple
-colorTo: red
-sdk: streamlit
-sdk_version: 1.19.0
-app_file: app.py
-pinned: false
----
+# BookRecommendationSystem
 
-
-# Book-Recommendation-System
+This a book recommendation system which is based on the amazon review dataset on kaggle.

@@ -1,10 +1,10 @@
 streamlit
-base64
 pandas
-pickle
 nltk
 Image
 requests
-PIL
-BytesIO
-base64
+Pillow
+matplotlib
+scikit-learn
+stop-words==2018.7.23
+scikit-surprise==1.1.1
